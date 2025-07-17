@@ -5,7 +5,7 @@ This project implements a basic RISC-V microprocessor CPU based on the single-cy
 
 ---
 
- Key Features
+ ## Key Features
 - Complete datapath with bus-based communication between units  
 - Supports all major RISC-V instruction types (R, I, S, B, J)  
 - Modular design including ALU, register file, memory, and control unit with mirco programming feature  
@@ -15,7 +15,7 @@ This project implements a basic RISC-V microprocessor CPU based on the single-cy
 
 ---
 
- Supported Instruction Types
+ ## Supported Instruction Types
 - R-Type: Register-register arithmetic and logic operations  
 - I-Type: Immediate arithmetic, logic, and load operations  
 - S-Type: Store instructions for memory writes  
