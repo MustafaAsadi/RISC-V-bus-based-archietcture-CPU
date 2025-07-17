@@ -1,4 +1,4 @@
-Bus-Based Architecture with RISC-V CPU in SystemVerilog
+Bus-Based Architecture with RISC-V CPU 
 =======================================================
 
 This project implements RISC-V microprocessor CPU based on the bus-based architecture. The processor is written Verilog HDL and includes a complete datapath, control flow simulation, and testbenches for each functional block. Simulation and verification were performed using **ModelSim**.
