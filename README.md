@@ -8,7 +8,7 @@ This project implements a basic RISC-V microprocessor CPU based on the single-cy
  Key Features
 - Complete datapath with bus-based communication between units  
 - Supports all major RISC-V instruction types (R, I, S, B, J)  
-- Modular design including ALU, register file, memory, and control units  
+- Modular design including ALU, register file, memory, and control unit with mirco programming feature  
 - Sign and zero extension units for immediate value handling  
 - Control signals modeled as a 16-bit input to drive the datapath  
 - Extensive testbenches for each module and the full datapath  
