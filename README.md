@@ -34,3 +34,11 @@ This project implements RISC-V microprocessor CPU based on the bus-based archite
 - `ControlTest.v`  
 
 ---
+
+
+
+## Results
+- Successfully simulated all instruction types on the CPU  
+- Verified correct datapath operation via modular testbenches  
+- Achieved comprehensive coverage of control signals and data paths  
+
