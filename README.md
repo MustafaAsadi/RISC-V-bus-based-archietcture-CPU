@@ -1,7 +1,7 @@
 Bus-Based Architecture with RISC-V CPU in SystemVerilog
 =======================================================
 
-This project implements a basic RISC-V microprocessor CPU based on the single-cycle architecture described in Chapter 4 of the *Computer Organization and Design* textbook. The processor is written in SystemVerilog and includes a complete datapath, control flow simulation, and testbenches for each functional block. Simulation and verification were performed using **ModelSim**.
+This project implements RISC-V microprocessor CPU based on the bus-based architecture. The processor is written Verilog HDL and includes a complete datapath, control flow simulation, and testbenches for each functional block. Simulation and verification were performed using **ModelSim**.
 
 ---
 
